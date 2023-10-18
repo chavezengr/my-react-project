@@ -1,0 +1,17 @@
+.AppBar {
+    background-color: #1877F2;
+}
+
+.grid-center-tabs {
+    color: white;
+    font-size: small;
+    font-weight: lighter;
+    display: inline-block;
+}
+
+.grid-right-tabs {
+    color: white;
+    font-size: small;
+    font-weight: lighter;
+    display: inline-block;
+}
